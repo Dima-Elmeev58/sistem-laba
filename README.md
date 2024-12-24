@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string filePath = @"C:\Users\alina\OneDrive\Рабочий стол\2 курс\системка\zxy.txt"; // Путь к файлу
+        string filePath = @"C:\Users\mitya\OneDrive\Рабочий стол\2 курс\системка\zxy.txt"; // Путь к файлу
 
         try
         {
